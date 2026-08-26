@@ -1,0 +1,6 @@
+{
+  "name": "The Abandoned Museum",
+  "description": "A realistic first-person survival horror experience in a haunted shutdown museum with permadeath, dynamic flashlight physics, stealth hiding, breaking glass alerts, and freeze-on-presence mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
